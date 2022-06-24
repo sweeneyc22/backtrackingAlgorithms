@@ -1,0 +1,3 @@
+C:/Users/dxfan/CLionProjects/backtrackingAlgorithms/cmake-build-debug/CMakeFiles/backtrackingAlgorithms.dir
+C:/Users/dxfan/CLionProjects/backtrackingAlgorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dxfan/CLionProjects/backtrackingAlgorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
